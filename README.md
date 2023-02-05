@@ -15,7 +15,8 @@ https://www.bilibili.com/video/av89567916
 
 ### 本项目需要配合  
 微信小程序项目：GitHub: https://github.com/wzyxdwll/hioshop-miniprogram-plus  
-管理后台项目：GitHub: https://github.com/wzyxdwll/hioshop-admin-plus  
+管理后台项目：GitHub: https://github.com/wzyxdwll/hioshop-admin-plus
+服务端： https://github.com/valdo8/hioshop-server-plus 
 
 ### 本地开发环境配置
 + 克隆项目到本地
